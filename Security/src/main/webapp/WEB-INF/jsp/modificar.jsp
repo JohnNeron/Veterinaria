@@ -50,7 +50,7 @@
 	<div class="w3-container" id="about">
 		<div class="w3-content" style="max-width: 700px">
 			<h5 class="w3-center w3-padding-64">
-				<span class="w3-tag w3-wide">Formulario Estudiante</span>
+				<span class="w3-tag w3-wide">Modificar Dueño</span>
 			</h5>
 		</div>
 	</div>
@@ -103,6 +103,5 @@
 	&middot;</p>
 	<p style="font-size: x-small;">Pedro de Valdivia #3762, Providencia.                                                  
 	www.drpet.com</p>
-
 </footer>
 </html>
